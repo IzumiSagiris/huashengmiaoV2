@@ -1,0 +1,5 @@
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\b\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\b\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\i\IzumiSagiris.Service\Debug\IzumiSagiris.Service.csproj.CoreCompileInputs.cache
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\i\IzumiSagiris.Service\Debug\IzumiSagiris.Service.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\i\IzumiSagiris.Service\Debug\IzumiSagiris.Service.pdb

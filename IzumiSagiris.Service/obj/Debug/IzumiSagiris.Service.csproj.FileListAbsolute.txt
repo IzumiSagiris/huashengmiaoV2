@@ -1,0 +1,44 @@
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.pdb
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Interface.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Interface.pdb
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.csprojResolveAssemblyReference.cache
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.csprojResolveAssemblyReference.cache
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.dll.config
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.csproj.CoreCompileInputs.cache
+D:\new\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.dll.config
+D:\new\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.dll
+D:\new\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.pdb
+D:\new\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.dll
+D:\new\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\new\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.xml
+D:\new\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\new\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.csproj.CoreCompileInputs.cache
+D:\new\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.dll
+D:\new\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.pdb
+D:\new\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.csprojResolveAssemblyReference.cache
+D:\new\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagirisCommon.dll
+D:\new\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagirisCommon.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.dll.config
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagiris.Service.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagirisCommon.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\bin\Debug\IzumiSagirisCommon.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiris.Service\obj\Debug\IzumiSagiris.Service.pdb

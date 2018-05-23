@@ -1,0 +1,295 @@
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\ApplicationInsights.config
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\csc.exe
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\System.Collections.Immutable.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\System.Reflection.Metadata.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\vbc.exe
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\VBCSCompiler.exe
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\VBCSCompiler.exe.config
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.dll.config
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.pdb
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Antlr3.Runtime.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Agent.Intercept.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.DependencyCollector.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Web.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.WindowsServer.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.ApplicationInsights.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.Web.Infrastructure.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Newtonsoft.Json.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Helpers.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Mvc.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Optimization.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Razor.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Deployment.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Razor.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\WebGrease.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Antlr3.Runtime.pdb
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.DependencyCollector.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Web.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.WindowsServer.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.ApplicationInsights.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Newtonsoft.Json.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Helpers.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Mvc.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Optimization.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Razor.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Deployment.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Razor.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.pdb
+D:\huashengmiao\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.csprojResolveAssemblyReference.cache
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\ApplicationInsights.config
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\csc.exe
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\System.Collections.Immutable.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\System.Reflection.Metadata.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\vbc.exe
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\VBCSCompiler.exe
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\VBCSCompiler.exe.config
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.dll.config
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.pdb
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Antlr3.Runtime.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Interface.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.DependencyCollector.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Web.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.WindowsServer.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.ApplicationInsights.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.Web.Infrastructure.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Newtonsoft.Json.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Helpers.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Mvc.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Optimization.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Razor.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Deployment.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Razor.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\WebGrease.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Interface.pdb
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Antlr3.Runtime.pdb
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.DependencyCollector.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Web.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.WindowsServer.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.ApplicationInsights.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Newtonsoft.Json.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Helpers.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Mvc.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Optimization.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Razor.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Deployment.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Razor.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.csprojResolveAssemblyReference.cache
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\ApplicationInsights.config
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\csc.exe
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\System.Collections.Immutable.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\System.Reflection.Metadata.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\vbc.exe
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\VBCSCompiler.exe
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\roslyn\VBCSCompiler.exe.config
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.dll.config
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Antlr3.Runtime.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Agent.Intercept.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.DependencyCollector.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Web.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.WindowsServer.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.ApplicationInsights.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.Web.Infrastructure.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Newtonsoft.Json.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Helpers.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Mvc.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Optimization.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Razor.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Deployment.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Razor.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\WebGrease.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Antlr3.Runtime.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.DependencyCollector.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Web.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.WindowsServer.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.ApplicationInsights.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\Newtonsoft.Json.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Helpers.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Mvc.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Optimization.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.Razor.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Deployment.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Razor.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.csprojResolveAssemblyReference.cache
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Service.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagirisCommon.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Service.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagirisCommon.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\EntityFramework.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Service.dll.config
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\bin\EntityFramework.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.csproj.CoreCompileInputs.cache
+D:\new\IzumiSagiri\IzumiSagiri\bin\ApplicationInsights.config
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\csc.exe
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\System.Collections.Immutable.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\System.Reflection.Metadata.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\vbc.exe
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\VBCSCompiler.exe
+D:\new\IzumiSagiri\IzumiSagiri\bin\roslyn\VBCSCompiler.exe.config
+D:\new\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.dll.config
+D:\new\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.pdb
+D:\new\IzumiSagiri\IzumiSagiri\bin\Antlr3.Runtime.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Service.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\IzumiSagirisCommon.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Agent.Intercept.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.DependencyCollector.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Web.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.WindowsServer.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.ApplicationInsights.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.Web.Infrastructure.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\Newtonsoft.Json.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.Helpers.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.Mvc.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.Optimization.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.Razor.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Deployment.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Razor.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\WebGrease.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\EntityFramework.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Service.pdb
+D:\new\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Service.dll.config
+D:\new\IzumiSagiri\IzumiSagiri\bin\IzumiSagirisCommon.pdb
+D:\new\IzumiSagiri\IzumiSagiri\bin\Antlr3.Runtime.pdb
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.DependencyCollector.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Web.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.WindowsServer.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.ApplicationInsights.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\Newtonsoft.Json.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.Helpers.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.Mvc.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.Optimization.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.Razor.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Deployment.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Razor.xml
+D:\new\IzumiSagiri\IzumiSagiri\bin\EntityFramework.xml
+D:\new\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.csprojResolveAssemblyReference.cache
+D:\new\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.csproj.CoreCompileInputs.cache
+D:\new\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.dll
+D:\new\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.pdb
+D:\new\IzumiSagiri\IzumiSagiri\bin\EntityFramework.SqlServer.dll
+D:\new\IzumiSagiri\IzumiSagiri\bin\EntityFramework.SqlServer.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\ApplicationInsights.config
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\csc.exe
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\vbc.exe
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.dll.config
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\IzumiSagiri.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Antlr3.Runtime.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\EntityFramework.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\EntityFramework.SqlServer.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Service.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\IzumiSagirisCommon.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Web.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Newtonsoft.Json.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.Helpers.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.Mvc.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.Optimization.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.Razor.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Razor.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\WebGrease.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Service.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\IzumiSagiris.Service.dll.config
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\IzumiSagirisCommon.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Antlr3.Runtime.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\EntityFramework.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\EntityFramework.SqlServer.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.Web.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\Newtonsoft.Json.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.Helpers.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.Mvc.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.Optimization.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.Razor.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\bin\System.Web.WebPages.Razor.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri\obj\Debug\IzumiSagiri.pdb

@@ -1,0 +1,18 @@
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagirisCommon\bin\Debug\IzumiSagirisCommon.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagirisCommon\bin\Debug\IzumiSagirisCommon.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.csprojResolveAssemblyReference.cache
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.csproj.CoreCompileInputs.cache
+D:\new\IzumiSagiri\IzumiSagirisCommon\bin\Debug\IzumiSagirisCommon.dll
+D:\new\IzumiSagiri\IzumiSagirisCommon\bin\Debug\IzumiSagirisCommon.pdb
+D:\new\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.csproj.CoreCompileInputs.cache
+D:\new\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.dll
+D:\new\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.pdb
+D:\new\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagirisCommon\bin\Debug\IzumiSagirisCommon.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagirisCommon\bin\Debug\IzumiSagirisCommon.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagirisCommon\obj\Debug\IzumiSagirisCommon.csprojResolveAssemblyReference.cache

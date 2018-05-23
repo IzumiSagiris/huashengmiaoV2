@@ -1,0 +1,212 @@
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\ApplicationInsights.config
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\csc.exe
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\vbc.exe
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.dll.config
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.pdb
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Optimization.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Mvc.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Razor.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.pdb
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Optimization.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Mvc.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Razor.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.csprojResolveAssemblyReference.cache
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.dll
+D:\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.pdb
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\ApplicationInsights.config
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\csc.exe
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\vbc.exe
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.dll.config
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.pdb
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Optimization.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Mvc.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Razor.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.pdb
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.dll.config
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Optimization.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Mvc.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Razor.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.csprojResolveAssemblyReference.cache
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.dll
+D:\IzumiSagiris\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\ApplicationInsights.config
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\csc.exe
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\vbc.exe
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.dll.config
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Optimization.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Mvc.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Razor.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Optimization.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Mvc.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Razor.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.csprojResolveAssemblyReference.cache
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagirisCommon.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagirisCommon.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiris.Service.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiris.Service.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\EntityFramework.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.dll.config
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiris.Service.dll.config
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\EntityFramework.xml
+D:\huashengmiao\huashengmiao\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.csproj.CoreCompileInputs.cache
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\ApplicationInsights.config
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\csc.exe
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\vbc.exe
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.dll.config
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.pdb
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Optimization.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Mvc.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiris.Service.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagirisCommon.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Razor.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\EntityFramework.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.pdb
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.dll.config
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Optimization.xml
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Mvc.xml
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiris.Service.pdb
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiris.Service.dll.config
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagirisCommon.pdb
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Razor.xml
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.xml
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\EntityFramework.xml
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.csprojResolveAssemblyReference.cache
+D:\new\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.csproj.CoreCompileInputs.cache
+D:\new\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.pdb
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\new\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.dll.config
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.Tests.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiris.Service.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagirisCommon.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\EntityFramework.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiri.dll.config
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiris.Service.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagiris.Service.dll.config
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\IzumiSagirisCommon.pdb
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\EntityFramework.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.dll
+C:\Users\dell\Documents\Tencent Files\273385774\FileRecv\IzumiSagiri\IzumiSagiri.Tests\obj\Debug\IzumiSagiri.Tests.pdb

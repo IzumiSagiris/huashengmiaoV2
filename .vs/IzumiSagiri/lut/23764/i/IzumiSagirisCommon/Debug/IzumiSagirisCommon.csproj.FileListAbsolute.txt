@@ -1,0 +1,6 @@
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\b\IzumiSagirisCommon\bin\Debug\IzumiSagirisCommon.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\b\IzumiSagirisCommon\bin\Debug\IzumiSagirisCommon.pdb
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\i\IzumiSagirisCommon\Debug\IzumiSagirisCommon.csprojResolveAssemblyReference.cache
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\i\IzumiSagirisCommon\Debug\IzumiSagirisCommon.csproj.CoreCompileInputs.cache
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\i\IzumiSagirisCommon\Debug\IzumiSagirisCommon.dll
+D:\huashengmiao\huashengmiao\IzumiSagiri\.vs\IzumiSagiri\lut\0\i\IzumiSagirisCommon\Debug\IzumiSagirisCommon.pdb
